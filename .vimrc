@@ -1,0 +1,1 @@
+/Users/gerardo8a/.vimrc
